@@ -18,9 +18,24 @@
    
 
 </header>
-<body>
+<main>
+    <h1>STORTINGET FANSASY</h1>
+    <div id="ST_grid">
+        <div>
+            <H2>Dagens topp politiker</H2>
+            
+        </div>
+        <div>
+            {% for repsentant in politikere} ?
+            <H4>POENGTAVLE</H4>
+            <li>
+            {{representant["fornavnavn"]["etternavn"]}} ?
+            </li>
+        </div>
+
+    </div>
     
-</body>
+</main>
 <footer>
     <ul id="footNavBar">
         <li> <a href="/FAntasy-stortinget/stortinget.html">HJEM</a></li>
