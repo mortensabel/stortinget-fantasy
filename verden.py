@@ -1,11 +1,16 @@
-#--Tester--
-import json
+class Verden:
+    def __init__(self):
+        self.politikere = []
+        self.lag = []
 
-f = open("politikere.json")
+    def finn_politiker(navn):
+        return navn
 
-data = json.load(f)
-f.close()
+    def finn_lag(navn):
+        pass
 
+    def legg_til_politiker(politiker):
+        pass
 
-for politiker in data["representanter_oversikt"]["representanter_liste"]["representant"]:
-    print(f"{politiker['fornavn']} {politiker['etternavn']}")
+    def legg_til_lag(lag):
+        pass
