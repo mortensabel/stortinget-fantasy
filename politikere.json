@@ -17,6 +17,7 @@
                     "fornavn": "Maria",
                     "id": "AASE",
                     "kjoenn": "kvinne",
+                    "bilde": "AASE.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -44,6 +45,7 @@
                     "fornavn": "Åsmund",
                     "id": "AAUK",
                     "kjoenn": "mann",
+                    "bilde": "AAUK.png" ,
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -71,6 +73,7 @@
                     "fornavn": "Abid",
                     "id": "ABIR",
                     "kjoenn": "mann",
+                    "bilde": "ABIR.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -98,6 +101,7 @@
                     "fornavn": "Anja Ninasdotter",
                     "id": "ABUANJ",
                     "kjoenn": "kvinne",
+                    "bilde": "ABUANJ.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -125,6 +129,7 @@
                     "fornavn": "Anna",
                     "id": "AIM",
                     "kjoenn": "kvinne",
+                    "bilde":"AIM.png" ,
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -152,6 +157,7 @@
                     "fornavn": "Aleksander",
                     "id": "ALES",
                     "kjoenn": "mann",
+                    "bilde": "ALES.pn" ,
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -179,6 +185,7 @@
                     "fornavn": "Alfred Jens",
                     "id": "ALFBJR",
                     "kjoenn": "mann",
+                    "bilde": "ALFBJR.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -206,6 +213,7 @@
                     "fornavn": "Anne Kristine",
                     "id": "ALI",
                     "kjoenn": "kvinne",
+                    "bilde": "ALI.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -233,6 +241,7 @@
                     "fornavn": "Audun",
                     "id": "ALYS",
                     "kjoenn": "mann",
+                    "bilde":"ALYS.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -260,6 +269,7 @@
                     "fornavn": "Anniken",
                     "id": "ANNH",
                     "kjoenn": "kvinne",
+                    "bilde":"ANNH.png" ,
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -287,6 +297,7 @@
                     "fornavn": "André N.",
                     "id": "ANNS",
                     "kjoenn": "mann",
+                    "bilde":"ANNS.png" ,
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -314,6 +325,7 @@
                     "fornavn": "Anette",
                     "id": "ATR",
                     "kjoenn": "kvinne",
+                    "bilde":"ATR.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
@@ -341,6 +353,7 @@
                     "fornavn": "Andreas Sjalg",
                     "id": "AU",
                     "kjoenn": "mann",
+                    "bilde":"AU.png",
                     "fylke": {
                         "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
                         "versjon": "1.6",
