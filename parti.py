@@ -1,3 +1,5 @@
-class Lag:
+class Parti:
     def __init__(self):
-        pass
+        self.liste_politikere = []
+
+
